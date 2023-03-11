@@ -1,4 +1,4 @@
-package pl.sztukakodu.bookmmr;
+package pl.sztukakodu.bookmmr.catalog.domain;
 
 import java.util.StringJoiner;
 
